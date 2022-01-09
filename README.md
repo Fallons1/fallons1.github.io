@@ -11,7 +11,8 @@
         
         <div id="event"><h1 class="welcome">Our Classes Games!</h1>
             ![ART](upper github.jpg)
-              ![ART](https://i.postimg.cc/X7H4M1tf/upper-github.jpg)
+             
+            ![ART(https://camo.githubusercontent.com/6271a0954f5b49e588e8a766e2f03a4d48fc7e16cabfee9b205555369a7fc957/68747470733a2f2f692e706f7374696d672e63632f583748344d3174662f75707065722d6769746875622e6a7067)
         <img class"top pic" src="https://i.postimg.cc/X7H4M1tf/upper-github.jpg">
         </div>
     </body>
