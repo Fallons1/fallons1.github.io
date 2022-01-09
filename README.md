@@ -10,7 +10,7 @@
     <body>
         
         <div id="event"><h1 class="welcome">Our Classes Games!</h1>
-            ![ART]()
+            ![ART](upper github.jpg)
         <img class"top pic" src="https://i.postimg.cc/X7H4M1tf/upper-github.jpg">
         </div>
     </body>
